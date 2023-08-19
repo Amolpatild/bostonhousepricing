@@ -17,3 +17,15 @@ pip install -r requirements
 ```
 git config --global user.name "Amol Patil"
 ```
+
+```
+git config --global user.email "patilamol011@gmail.com"
+```
+
+```
+git commit -m "Message"
+```
+
+```
+git push origin main
+```
